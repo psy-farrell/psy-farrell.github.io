@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Simon Farrell</title>
+ <link href="http://psy-farrell.github.io/atom.xml" rel="self"/>
+ <link href="http://psy-farrell.github.io/"/>
+ <updated>2014-04-04T15:54:07+08:00</updated>
+ <id>http://psy-farrell.github.io</id>
+ <author>
+   <name>Simon Farrell</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome!</title>
+   <link href="http://psy-farrell.github.io/2014/04/04/welcome/"/>
+   <updated>2014-04-04T00:00:00+08:00</updated>
+   <id>http://psy-farrell.github.io/2014/04/04/welcome</id>
+   <content type="html">&lt;p&gt;A collection of blog posts and data from the lab of Simon Farrell, now at the University of Western Australia.&lt;/p&gt;
+
+&lt;p&gt;This site will be fully updated in the next few weeks.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

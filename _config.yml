@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Simon Farrell
+tagline:          'Dr Simon Farrell'
+description:      'Future Fellow<p>University of Western Australia<p><a href="mailto://simon.farrell@uwa.edu.au">simon.farrell@uwa.edu.au</a>'
+url:              http://psy-farrell.github.io
+
+author:
+  name:           'Simon Farrell'
+  url:            http://psy-farrell.github.io
+
+paginate:         5
+
+# Custom vars
+#version:          2.0.0
+
+#github:
+#  repo:           https://github.com/poole/hyde
