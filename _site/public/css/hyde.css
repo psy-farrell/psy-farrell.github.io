@@ -39,11 +39,11 @@ html {
     font-size: 16px;
   }
 }
-@media (min-width: 58rem) {
+/*@media (min-width: 58rem) {
   html {
     font-size: 20px;
   }
-}
+}*/
 
 
 /*
@@ -247,4 +247,13 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Simon 1 */
+.theme-base-s1 .sidebar {
+  background-color: #444444;
+}
+.theme-base-s1 .content a,
+.theme-base-s1 .related-posts li a:hover {
+  color: #ac2222;
 }

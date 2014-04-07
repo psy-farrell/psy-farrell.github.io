@@ -1,0 +1,19 @@
+Installation instructions for CS-SOB modelling environment.
+(Oberauer, K., Lewandowsky, S., Farrell, S., Jarrold, C. and Greaves, M. 2012. Modeling working memory: An interference model of complex span. Psychonomic Bulletin & Review, 19, 779-819.) 
+
+
+To install the CS-SOB simulation environment GenWM for Windows-based PC's please click here:
+Link to the appropriate batch installation executable.
+
+Instructions on installing GenWm can be found on page 3 of the user guide which can be downloaded here:
+Link to the user guide.
+
+Further information and updates on the Matlab Compiler Runtime which is installed as a part of this package can be obtained here:
+http://www.mathworks.co.uk/products/compiler/mcr/index.html
+
+
+Notes:
+
+1.    Please be aware that the simulation environment program installs Matlab Compiler Runtime (MCR) and the executable genwm.exe.  MCR is a large file and will take some time to download.
+
+2.    On starting the application genwm.exe, the program may take a few seconds to start while MCR is starting up.
