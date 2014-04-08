@@ -11,7 +11,7 @@ See disclaimer and copyright notice at bottom!
 
 ## Recent publications ##
 
-Farrell, S. (in press). [Correcting the correction of conditional recency slopes](/moranreplypbr.pdf). *Psychonomic Bulletin & Review*.
+Farrell, S. (in press). [Correcting the correction of conditional recency slopes](/moranReplyPBR.pdf). *Psychonomic Bulletin & Review*.
 
 Farrell, S. and Oberauer, K. (2014). Working memory for cross-domain sequences. <i>Quarterly Journal of Experimental Psychology </i>, 67, 33-44. [<a href="/totallyDsimE1.pdf">Unpublished manuscript</a> reporting an additional experiment using words rather than nonwords as stimuli].</p>
 
