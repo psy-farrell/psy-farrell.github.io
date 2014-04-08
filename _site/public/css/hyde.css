@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: Montserrat, "Abril Fatface", serif;
+  font-family: Rokkitt, "Abril Fatface", serif;
   font-size: 3.25rem;
 }
 
@@ -124,6 +124,18 @@ a.sidebar-nav-item:focus {
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
+}
+
+.content h1 {
+  font-family: "Rokkitt", serif;
+}
+
+.content h2 {
+  font-family: "Rokkitt", serif;
+}
+
+.content h3 {
+  font-family: "Rokkitt", serif;
 }
 
 @media (min-width: 48rem) {
