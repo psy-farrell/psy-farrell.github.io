@@ -10,7 +10,7 @@
 
   <title>
     
-      Welcome! &middot; Simon Farrell
+      SPSS to LaTeX (funk to funky) &middot; Simon Farrell
     
   </title>
 
@@ -100,17 +100,28 @@
 
     <div class="content container">
       <div class="post">
-  <h1 class="post-title">Welcome!</h1>
-  <span class="post-date">04 Apr 2014</span>
-  <p>A collection of blog posts and data from the lab of Simon Farrell, now at the University of Western Australia.</p>
+  <h1 class="post-title">SPSS to LaTeX (funk to funky)</h1>
+  <span class="post-date">10 Dec 2011</span>
+  <p>Some bits of writing a paper can be fun&mdash;finding a good way to present an argument, or coming up with a theory that explains some weird results. Other bits are just plain dull, and some of the dullest must be method and results sections. Transcribing F values, p values and degrees of freedom from your stats package into a paper really is not something that researchers should be spending time on. Furthermore, these are the bits that we as psychologists are getting wrong. Some recent and disturbing evidence comes from Bakker &amp; Wicherts (2011), who showed that an alarming number of papers contain errors in their reporting of statistical results (and these errors are biased towards finding a significant result).</p>
 
-<p>This site will be fully updated in the next few weeks.</p>
+<p>One solution is to automate statistical reporting as much as possible, which in turn implies automating the analysis/modelling process itself. Indeed, a recent movement (see, e.g., http://www.sciencemag.org/content/334/6060/1226.full) urges for reproducible research, whereby data are made available to other researchers along with the precise code that was used to turn those data into the results reported in a scientific paper. To link the analyses with what actually appears in a published article, programs such as R have been integrated with LaTeX via such packages as Sweave. I use MATLAB to run many of analyses, and integration with Sweave hasn&rsquo;t really progressed. Furthermore, I actually call SPSS from MATLAB so I get some of the useful stuff that SPSS prints out (like effect sizes and contrasts), whilst using MATLAB to do the grunt work of scoring up performance. So instead I wrote <a href="/LatexFull.xla">this addin</a>, which takes Excel output exported from SPSS for a repeated measures ANOVA, and turns it into LaTeX-ready output. It would be straightforward to do the same for between-subjects effects, regression etc.&mdash;I just very rarely use these!</p>
+
+<p>Bakker, M. &amp; Wicherts, J. M. (2011). The (mis)reporting of statistical results in psychology journals. Behavior Research Methods, 43, 666-678.</p>
 
 </div>
 
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2014/04/04/welcome/">
+            Welcome!
+            <small>04 Apr 2014</small>
+          </a>
+        </h3>
+      </li>
     
       <li>
         <h3>
@@ -126,15 +137,6 @@
           <a href="/2013/03/10/Nexus4/">
             Google Nexus 4
             <small>10 Mar 2013</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/2013/02/07/dropboxdiff/">
-            dropboxdiff
-            <small>07 Feb 2013</small>
           </a>
         </h3>
       </li>

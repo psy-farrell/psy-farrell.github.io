@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Dr Simon Farrell &middot; Simon Farrell
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface|Montserrat|Rokkitt">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body class="layout-reverse theme-base-s1">
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>Simon Farrell</h1>
+      <p class="lead">Future Fellow<p>University of Western Australia<p><a href="mailto:simon.farrell@uwa.edu.au">simon.farrell@uwa.edu.au</a></p>
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+        <a href="/">Home</a>
+      </li>
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+          
+            <li class="sidebar-nav-item">
+              <a href="/about/">About</a>
+            </li>
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+            <li class="sidebar-nav-item">
+              <a href="/publications/">Publications</a>
+            </li>
+          
+        
+      
+        
+          
+            <li class="sidebar-nav-item">
+              <a href="/research/">Research</a>
+            </li>
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+
+    </ul>
+
+    <p>&copy; 2014. All rights reserved.</p>
+    <p>This site is based on <a href="http://hyde.getpoole.com">Poole</a>.</p>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="posts">
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2011/12/10/SPSS+to+LaTeX/">
+        SPSS to LaTeX (funk to funky)
+      </a>
+    </h1>
+
+    <span class="post-date">10 Dec 2011</span>
+
+    <p>Some bits of writing a paper can be fun&mdash;finding a good way to present an argument, or coming up with a theory that explains some weird results. Other bits are just plain dull, and some of the dullest must be method and results sections. Transcribing F values, p values and degrees of freedom from your stats package into a paper really is not something that researchers should be spending time on. Furthermore, these are the bits that we as psychologists are getting wrong. Some recent and disturbing evidence comes from Bakker &amp; Wicherts (2011), who showed that an alarming number of papers contain errors in their reporting of statistical results (and these errors are biased towards finding a significant result).</p>
+
+<p>One solution is to automate statistical reporting as much as possible, which in turn implies automating the analysis/modelling process itself. Indeed, a recent movement (see, e.g., http://www.sciencemag.org/content/334/6060/1226.full) urges for reproducible research, whereby data are made available to other researchers along with the precise code that was used to turn those data into the results reported in a scientific paper. To link the analyses with what actually appears in a published article, programs such as R have been integrated with LaTeX via such packages as Sweave. I use MATLAB to run many of analyses, and integration with Sweave hasn&rsquo;t really progressed. Furthermore, I actually call SPSS from MATLAB so I get some of the useful stuff that SPSS prints out (like effect sizes and contrasts), whilst using MATLAB to do the grunt work of scoring up performance. So instead I wrote <a href="/LatexFull.xla">this addin</a>, which takes Excel output exported from SPSS for a repeated measures ANOVA, and turns it into LaTeX-ready output. It would be straightforward to do the same for between-subjects effects, regression etc.&mdash;I just very rarely use these!</p>
+
+<p>Bakker, M. &amp; Wicherts, J. M. (2011). The (mis)reporting of statistical results in psychology journals. Behavior Research Methods, 43, 666-678.</p>
+
+  </div>
+  
+</div>
+
+<div class="pagination">
+  
+    <span class="pagination-item older">Older</span>
+  
+  
+    
+      <a class="pagination-item newer" href="/page2">Newer</a>
+    
+  
+</div>
+    </div>
+
+  </body>
+</html>

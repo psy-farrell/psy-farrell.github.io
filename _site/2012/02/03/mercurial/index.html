@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Mercurial, Dropbox for geeks &middot; Simon Farrell
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface|Montserrat|Rokkitt">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body class="layout-reverse theme-base-s1">
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>Simon Farrell</h1>
+      <p class="lead">Future Fellow<p>University of Western Australia<p><a href="mailto:simon.farrell@uwa.edu.au">simon.farrell@uwa.edu.au</a></p>
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+        <a href="/">Home</a>
+      </li>
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+          
+            <li class="sidebar-nav-item">
+              <a href="/about/">About</a>
+            </li>
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+            <li class="sidebar-nav-item">
+              <a href="/publications/">Publications</a>
+            </li>
+          
+        
+      
+        
+          
+            <li class="sidebar-nav-item">
+              <a href="/research/">Research</a>
+            </li>
+          
+        
+      
+        
+          
+        
+      
+        
+          
+        
+      
+
+    </ul>
+
+    <p>&copy; 2014. All rights reserved.</p>
+    <p>This site is based on <a href="http://hyde.getpoole.com">Poole</a>.</p>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="post">
+  <h1 class="post-title">Mercurial, Dropbox for geeks</h1>
+  <span class="post-date">03 Feb 2012</span>
+  <p>I&rsquo;ll admit it, <a href="http://www.dropbox.com/">Dropbox</a> is pretty cool. It&rsquo;s
+great for quickly sharing photos and docs with others (including
+collaborators), and for a while I was using it to keep much of my
+working directory in sync across computers. What&rsquo;s especially cool is
+the rat pack add-on, which keeps track of all your file changes so you
+can revert to an old version if you do something stupid (and boy, can I
+do some stupid things).\
+ \
+ However, last year there were a few privacy issues raised with Dropbox.
+The first is that there is no client-side encryption. That means that
+although your data is encrypted on their servers, this can be decrypted
+by them also. Their policy is not to do that, but they *can* be forced
+to &ldquo;<a href="https://www.dropbox.com/dmca#security">when legally required to do
+so</a>&rdquo;. Then there are fond
+memories of the time that <a href="http://www.boingboing.net/2011/06/20/dropbox-accounts-lef.html">every single account was left accessible
+without a
+password</a>
+for a good few hours. Ouch!\
+ \
+ Even though the work I&rsquo;ve been sharing on Dropbox isn&rsquo;t super-sensitive
+(just working papers, data analyses and modelling), this isn&rsquo;t really
+reassuring. One solution is to use services like
+<a href="http://getsecretsync.com/">SecretSync</a>. However, this requires forking
+over money for a pretty basic service that Dropbox should be providing
+by default. So instead I&rsquo;ve turned to a geeky option called
+<a href="http://mercurial.selenic.com/">Mercurial</a>. I&rsquo;ve actually been using
+this for a few years to keep stuff in sync with <a href="http://www.cogsciwa.com/">Steve
+Lewandowsky</a> when we were writing our
+<a href="http://www.sagepub.com/books/Book233316">masterpiece</a>, and it works
+really well.\
+ \
+ Mercurial is technically known as a <a href="http://en.wikipedia.org/wiki/Distributed_revision_control">distributed version control
+system</a>. We
+start off with a seed repository, which contains the initial state of
+all our files (if any), and initialize it. Then every user of the
+repository can clone that repository to their own computer so they have
+local copies of the files. One important thing is that the files in our
+directory are kept separate from the repository itself. Accordingly,
+working practice is to edit as per usual, and then every now and then to
+&ldquo;commit&rdquo; those changes to the repository (e.g., at the end of the day,
+or when you&rsquo;ve reached a milestone). However, even after committing
+those changes, they&rsquo;ll still just be local to your computer.
+Accordingly, one needs to push their changes to the central repository
+(which is usually hosted on a server, and talked to via ssh or the like)
+and pull changes that other users might have made.\
+ \
+ One nice thing is the merge feature. If I&rsquo;ve made changes to a file,
+and you&rsquo;ve made changes to the same file in the interim, then mercurial
+can automatically merge those changes in an intelligent fashion. In
+cases where changes can&rsquo;t be merged (i.e., we modified the same line in
+the file), we can use a program like
+<a href="http://kdiff3.sourgeforge.net/">kdiff3</a> to manually resolve the
+conflicts; in my experience this happens pretty rarely. Another cool
+thing is that we also have a record of all changes we&rsquo;ve made to all
+files in the repository since the intialization. This has been a
+lifesaver in cases where, for example, some model simulations have been
+working really well, but then in overexuberant exploration I&rsquo;ve made
+some silly edits and lost the working version of the model (yes, I can
+be that silly sometimes).\
+ \
+ By default, committing, pulling and pushing all need to be carried out
+manually. However, I&rsquo;ve been using an extension called
+<a href="http://mercurial.selenic.com/wiki/AutoSyncExtension">autosync</a> that
+will automatically go through a commit/pull/merge/push cycle regularly.
+Mine fires off every 10 minutes, so my computers are more or less in
+constant sync. This avoids one problem with Dropbox, which is that it
+eagerly syncs across all the crappy auxiliary files that are generated
+when compiling LaTeX documents. I&rsquo;ve got my Mac set up to delete all the
+auxiliary files after completion, so this mostly prevents this
+happening. Deleting those auxiliary files does mean each compilation
+takes longer, but hey, compiling is just really fast these days.\
+ \
+ So Dropbox, you&rsquo;ve a great service, but I think we should just keep it
+casual.</p>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2014/04/04/welcome/">
+            Welcome!
+            <small>04 Apr 2014</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2013/10/09/gettingStuffIntoEditorial/">
+            Getting stuff into Editorial
+            <small>09 Oct 2013</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2013/03/10/Nexus4/">
+            Google Nexus 4
+            <small>10 Mar 2013</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+    </div>
+
+  </body>
+</html>

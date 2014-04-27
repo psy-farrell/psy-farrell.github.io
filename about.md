@@ -15,4 +15,4 @@ My past and present collaborators include [Steve Lewandowsky](http://www.cogsciw
 
 I am an Associate Editor for the [Quarterly Journal of Experimental Psychology](http://www.tandf.co.uk/journals/pp/02724995.html).
 
-In my current research position I don't do much teaching. In previous ears I have taught about experimental methods (1st year), the psychology of science (3rd year), memory (2nd year), statistics (MSc), cognitive modelling (3rd year), neuropsychology (MSc), and psychology of language (MSc).
+In my current research position I don't do much teaching. In previous ears I have taught about experimental methods (1st year), the psychology of science (3rd year), memory (2nd year), statistics (MSc), cognitive modelling (3rd year), neuropsychology (MSc), and the psychology of language (MSc).
