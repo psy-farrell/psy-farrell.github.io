@@ -4,13 +4,22 @@
  <title>Simon Farrell</title>
  <link href="http://psy-farrell.github.io/atom.xml" rel="self"/>
  <link href="http://psy-farrell.github.io/"/>
- <updated>2014-04-27T20:49:04+08:00</updated>
+ <updated>2014-05-16T11:12:12+08:00</updated>
  <id>http://psy-farrell.github.io</id>
  <author>
    <name>Simon Farrell</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Changes</title>
+   <link href="http://psy-farrell.github.io/2014/04/27/changes/"/>
+   <updated>2014-04-27T00:00:00+08:00</updated>
+   <id>http://psy-farrell.github.io/2014/04/27/changes</id>
+   <content type="html">&lt;p&gt;I just imported (manually) my blog posts from blogspot, so this should be up to date. Please excuse broken links introduced in the conversion.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Welcome!</title>
