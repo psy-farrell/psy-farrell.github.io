@@ -11,11 +11,13 @@ See disclaimer and copyright notice at bottom!
 
 ## Recent publications ##
 
-Farrell, S. (in press). [Correcting the correction of conditional recency slopes](/moranReplyPBR.pdf). *Psychonomic Bulletin & Review*.
+Spurgeon, J., Ward, G., Matthews, W. J., & Farrell, S.  (in press).  Can the effects of temporal grouping explain the similarities and differences between free recall and serial recall?. Memory \& Cognition. 
+
+## Pre 2015 ##
+
+Farrell, S. (in press). [Correcting the correction of conditional recency slopes](/moranReplyPBR.pdf). *Psychonomic Bulletin & Review, 21*, 1--6. 
 
 Farrell, S. and Oberauer, K. (2014). Working memory for cross-domain sequences. <i>Quarterly Journal of Experimental Psychology </i>, 67, 33-44. [<a href="/totallyDsimE1.pdf">Unpublished manuscript</a> reporting an additional experiment using words rather than nonwords as stimuli].</p>
-
-## Pre 2014 ##
 
 Farrell, S. and Hurlstone, M. J. and Lewandowksy, S. (2013). Sequential dependencies in recall of sequences: Filling in the blanks. *Memory & Cognition*, 41, 938--952.
 
