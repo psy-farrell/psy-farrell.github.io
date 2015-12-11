@@ -4,13 +4,24 @@
  <title>Simon Farrell</title>
  <link href="http://psy-farrell.github.io/atom.xml" rel="self"/>
  <link href="http://psy-farrell.github.io/"/>
- <updated>2014-09-23T19:46:54+08:00</updated>
+ <updated>2015-12-11T17:02:27+08:00</updated>
  <id>http://psy-farrell.github.io</id>
  <author>
    <name>Simon Farrell</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>The PRO initiative for open science</title>
+   <link href="http://psy-farrell.github.io/2015/12/11/PRO-initiative-for-open-science/"/>
+   <updated>2015-12-11T00:00:00+08:00</updated>
+   <id>http://psy-farrell.github.io/2015/12/11/PRO-initiative-for-open-science</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://opennessinitiative.org/wp-content/uploads/2015/11/pro_lock_wide.png&quot; style=&quot;width:50%&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I just signed up to the &lt;a href=&quot;https://opennessinitiative.org/&quot;&gt;PRO initiative for open science&lt;/a&gt;. This is a way for reviewers to nudge authors towards being more open in their approach to science. The idea is authors should either a) provide their data, analysis scripts, and experimental stimuli when they submit a paper, or b) explain why they can&amp;rsquo;t. Signatories to the PRO initiative agree to request such materials (if they aren&amp;rsquo;t already provided) when reviewing manuscripts. If the authors don&amp;rsquo;t provide the materials (or don&amp;rsquo;t explain why they can&amp;rsquo;t&amp;mdash;some people may have good reason for keeping aspects of their experiment a secret), the review focusses only on this aspect of the paper. There is no obligation on signatories to examine those materials in data or comment on them; the idea is rather to encourage authors to make these materials available for all readers (not just the reviewers) form the outset. Having said that, there are a number of times I&amp;rsquo;ve been reviewing papers and wished the authors had made their data available.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Changes</title>
