@@ -271,3 +271,14 @@ a.sidebar-nav-item:focus {
 .theme-base-s1 .related-posts li a:hover {
   color: #ac2222;
 }
+
+/* UWA blue */
+.theme-base-uwa .sidebar {
+  /*background: linear-gradient(to top, rgb(0,40,0),rgb(0,0,40));*/
+    /* W3C */
+  background-color: #27348b;
+}
+.theme-base-uwa .content a,
+.theme-base-uwa .related-posts li a:hover {
+  color: #27348b;
+}
