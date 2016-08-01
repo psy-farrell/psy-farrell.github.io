@@ -54,6 +54,14 @@
         
           
             <li class="sidebar-nav-item">
+              <a href="/PhD/">PhD studies</a>
+            </li>
+          
+        
+      
+        
+          
+            <li class="sidebar-nav-item">
               <a href="/about/">About</a>
             </li>
           
@@ -68,7 +76,7 @@
         
           
             <li class="sidebar-nav-item">
-              <a href="/PhD/">PhD studies</a>
+              <a href="/members/">Lab members and alumni</a>
             </li>
           
         
@@ -89,20 +97,14 @@
           
         
       
-        
-          
-        
-      
-        
-          
-        
-      
 
     </ul>
 
+    <p><a href="https://twitter.com/psy_farrell" class="twitter-follow-button" data-show-count="false">Follow @psy_farrell</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
+
     <p><a href="https://opennessinitiative.org"><img src="https://opennessinitiative.org/wp-content/uploads/2015/11/pro_lock.png" alt="PRO initiative" width=100></a></p>
 
-    <p>&copy; 2015. All rights reserved.</p>
+    <p>&copy; 2016. All rights reserved.</p>
     <p>This site is based on <a href="http://hyde.getpoole.com">Poole</a>.</p>
   </div>
 </div>
@@ -111,122 +113,11 @@
     <div class="content container">
       <div class="posts">
   
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2015/12/11/PRO-initiative-for-open-science/">
-        The PRO initiative for open science
-      </a>
-    </h1>
-
-    <span class="post-date">11 Dec 2015</span>
-
-    <p><img src="https://opennessinitiative.org/wp-content/uploads/2015/11/pro_lock_wide.png" style="width:50%"></p>
-
-<p>I just signed up to the <a href="https://opennessinitiative.org/">PRO initiative for open science</a>. This is a way for reviewers to nudge authors towards being more open in their approach to science. The idea is authors should either a) provide their data, analysis scripts, and experimental stimuli when they submit a paper, or b) explain why they can&rsquo;t. Signatories to the PRO initiative agree to request such materials (if they aren&rsquo;t already provided) when reviewing manuscripts. If the authors don&rsquo;t provide the materials (or don&rsquo;t explain why they can&rsquo;t&mdash;some people may have good reason for keeping aspects of their experiment a secret), the review focusses only on this aspect of the paper. There is no obligation on signatories to examine those materials in data or comment on them; the idea is rather to encourage authors to make these materials available for all readers (not just the reviewers) form the outset. Having said that, there are a number of times I&rsquo;ve been reviewing papers and wished the authors had made their data available.</p>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2014/04/27/changes/">
-        Changes
-      </a>
-    </h1>
-
-    <span class="post-date">27 Apr 2014</span>
-
-    <p>I just imported (manually) my blog posts from blogspot, so this should be up to date. Please excuse broken links introduced in the conversion.</p>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2014/04/04/welcome/">
-        Welcome!
-      </a>
-    </h1>
-
-    <span class="post-date">04 Apr 2014</span>
-
-    <p>A collection of blog posts and data from the lab of Simon Farrell, now at the University of Western Australia.</p>
-
-<p>This site will be fully updated in the next few weeks.</p>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2013/10/09/gettingStuffIntoEditorial/">
-        Getting stuff into Editorial
-      </a>
-    </h1>
-
-    <span class="post-date">09 Oct 2013</span>
-
-    <p><a href="http://omz-software.com/editorial/">Editorial</a> is the new text editor on the block that has all the kids talking. Its two main features that set it apart from the other N markdown editors available on the iPad are a) Inline preview of markdown, in a very pretty format, and b) the thing is fully Python scriptable. A <a href="http://editorial-app.appspot.com/">compendium of workflows</a> shows all the cool stuff you can do with built in workflow components and Python scripting.</p>
-
-<p>One issue with apps like this is getting docs in there in the first place. Many apps, Editorial included, can access a Dropbox account, and will by default set up their own directory in /Apps/. So one has a choice of manually moving documents to and from that directory, or making one&rsquo;s entire working directory available to the app. This latter is overkill, so I was looking for an easy way to get stuff into and out of Editorial. The solution is to stick the following bash code into an automator service. When run on a file, it will move that file into the Editorial Dropbox directory, and create a placeholder file with extension &ldquo;edi&rdquo; in it&rsquo;s place. Running the script on the &ldquo;.edi&rdquo; file will move the document back to its home (and delete the edi placeholder).</p>
-<div class="highlight"><pre><code class="text language-text" data-lang="text">xpath=${1%/*} 
-xbase=${1##*/}
-xfext=${xbase##*.}
-xpref=${xbase%.*}
-
-editorialDir=&quot;/Your/Editorial/Dropbox/Directory&quot;
-
-if [ &quot;$xfext&quot; == &quot;edi&quot; ]
-then
-    echo &quot;here!&quot;
-    targName=`less $1`
-    mv $editorialDir/$targName $xpath
-    rm $1
-else
-    if [  -a $editorialDir/$xbase ]
-    then
-        COUNTER=2
-        while [  -a $editorialDir/$xpref$COUNTER.$xfext ]; do
-            let COUNTER=COUNTER+1
-        done
-        targName=$xbase$COUNTER.$xfext
-    fi
-    mv $1 $editorialDir/$targName
-    echo &quot;$xpref$COUNTER.$xfext&quot; &gt; $xpath/$xpref.edi
-fi
-</code></pre></div>
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2013/03/10/Nexus4/">
-        Google Nexus 4
-      </a>
-    </h1>
-
-    <span class="post-date">10 Mar 2013</span>
-
-    <p>So recently I lost my iPhone 4 on the way back to the office from lunch. Two things of note:</p>
-
-<ol>
-<li><p>I had location services turned on on the iPhone, and could use the &ldquo;Find my iPhone&rdquo; feature to track it down. I managed to work out <em>roughly</em> where it was, to within 20-30 metres or so, but the location kept jumping around, indicating the phone was inside (or inside a drain) and couldn&rsquo;t use GPS. This turns out to actually not be that helpful&mdash;I asked around various shops/businesses (including where I bought lunch) but without having a good idea about the precise building or room, there&rsquo;s not much you can do. One feature I unfortunately did end up using was the remote wipe; I&rsquo;ve lost a phone, but don&rsquo;t have to worry about nefarious use of personal information.</p></li>
-<li><p>To replace the iPhone&mdash;which had been carrying along nicely, no complaints&mdash;I bought a Nexus 4. This turns out to be pretty full of features, and nearly half the price of an iPhone 5 (yes, I <em>could</em> have bought an iPhone 4 or 4S, but, y&#39;know…). Some impressions:</p>
-
-<p>a. The phone itself is pretty solid, and really light compared to previous smartphones I&rsquo;ve owned. It&rsquo;s a slippery sucker though, and seems to <em>will</em>itself off tables and armchairs.</p>
-
-<p>b. I had an Android phone a few years back, and although I thought it was good, it didn&rsquo;t have the same level of polish as iOS. This version (Jelly Bean) actually looks nice, and I&rsquo;d forgotten how cool it is to use things like widgets. I totally understand the benefits of Apple&rsquo;s walled garden, but it&rsquo;s nice to be able to do your own digging. The one glaring exception is the gmail app&mdash;on iOS the recent-ish update to the gmail app is beautiful to look at, and the Android version is just plain old ugly in comparison.</p>
-
-<p>c. I seemed to encounter the issues with buggy wi-fi that have been <a href="http://things-linux.blogspot.co.uk/2013/01/time-frame-of-nexus-4-wifi-bug-issues.html">bugging others</a>. Wi-fi at work was fine, but the connection at home kept dropping. I came close to just returning the damned phone as I wasn&rsquo;t able to reliably download apps, but in the end installed a third party app that brought the issue under control.</p>
-
-<p>d. One new feature in Android is Google Now. This allows you to do voice searches and commands, and also brings up useful information (e.g., appointments, flight details) by intelligently working out when you&rsquo;ll need them. So far I&rsquo;ve only ever been told about the weather and upcoming calendar appointments, so I lead a dull life (most plausible) and/or Google needs to mine my data deeper (also plausible, and somewhat disturbing).</p>
-
-<p>e. I don&rsquo;t have a constant mobile data connection. Whether this is to do with poor coverage from Virgin or a hardware/software fault I don&rsquo;t know, but it is something I miss from the iPhone on O2.</p></li>
-</ol>
-
-  </div>
-  
 </div>
 
 <div class="pagination">
   
-    <a class="pagination-item older" href="/page2">Older</a>
+    <span class="pagination-item older">Older</span>
   
   
     <span class="pagination-item newer">Newer</span>

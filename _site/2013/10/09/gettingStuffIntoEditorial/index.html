@@ -54,6 +54,14 @@
         
           
             <li class="sidebar-nav-item">
+              <a href="/PhD/">PhD studies</a>
+            </li>
+          
+        
+      
+        
+          
+            <li class="sidebar-nav-item">
               <a href="/about/">About</a>
             </li>
           
@@ -68,7 +76,7 @@
         
           
             <li class="sidebar-nav-item">
-              <a href="/PhD/">PhD studies</a>
+              <a href="/members/">Lab members and alumni</a>
             </li>
           
         
@@ -89,20 +97,14 @@
           
         
       
-        
-          
-        
-      
-        
-          
-        
-      
 
     </ul>
 
+    <p><a href="https://twitter.com/psy_farrell" class="twitter-follow-button" data-show-count="false">Follow @psy_farrell</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
+
     <p><a href="https://opennessinitiative.org"><img src="https://opennessinitiative.org/wp-content/uploads/2015/11/pro_lock.png" alt="PRO initiative" width=100></a></p>
 
-    <p>&copy; 2015. All rights reserved.</p>
+    <p>&copy; 2016. All rights reserved.</p>
     <p>This site is based on <a href="http://hyde.getpoole.com">Poole</a>.</p>
   </div>
 </div>
@@ -114,17 +116,18 @@
   <span class="post-date">09 Oct 2013</span>
   <p><a href="http://omz-software.com/editorial/">Editorial</a> is the new text editor on the block that has all the kids talking. Its two main features that set it apart from the other N markdown editors available on the iPad are a) Inline preview of markdown, in a very pretty format, and b) the thing is fully Python scriptable. A <a href="http://editorial-app.appspot.com/">compendium of workflows</a> shows all the cool stuff you can do with built in workflow components and Python scripting.</p>
 
-<p>One issue with apps like this is getting docs in there in the first place. Many apps, Editorial included, can access a Dropbox account, and will by default set up their own directory in /Apps/. So one has a choice of manually moving documents to and from that directory, or making one&rsquo;s entire working directory available to the app. This latter is overkill, so I was looking for an easy way to get stuff into and out of Editorial. The solution is to stick the following bash code into an automator service. When run on a file, it will move that file into the Editorial Dropbox directory, and create a placeholder file with extension &ldquo;edi&rdquo; in it&rsquo;s place. Running the script on the &ldquo;.edi&rdquo; file will move the document back to its home (and delete the edi placeholder).</p>
-<div class="highlight"><pre><code class="text language-text" data-lang="text">xpath=${1%/*} 
+<p>One issue with apps like this is getting docs in there in the first place. Many apps, Editorial included, can access a Dropbox account, and will by default set up their own directory in /Apps/. So one has a choice of manually moving documents to and from that directory, or making one’s entire working directory available to the app. This latter is overkill, so I was looking for an easy way to get stuff into and out of Editorial. The solution is to stick the following bash code into an automator service. When run on a file, it will move that file into the Editorial Dropbox directory, and create a placeholder file with extension “edi” in it’s place. Running the script on the “.edi” file will move the document back to its home (and delete the edi placeholder).</p>
+
+<pre><code>xpath=${1%/*} 
 xbase=${1##*/}
 xfext=${xbase##*.}
 xpref=${xbase%.*}
 
-editorialDir=&quot;/Your/Editorial/Dropbox/Directory&quot;
+editorialDir="/Your/Editorial/Dropbox/Directory"
 
-if [ &quot;$xfext&quot; == &quot;edi&quot; ]
+if [ "$xfext" == "edi" ]
 then
-    echo &quot;here!&quot;
+    echo "here!"
     targName=`less $1`
     mv $editorialDir/$targName $xpath
     rm $1
@@ -138,9 +141,10 @@ else
         targName=$xbase$COUNTER.$xfext
     fi
     mv $1 $editorialDir/$targName
-    echo &quot;$xpref$COUNTER.$xfext&quot; &gt; $xpath/$xpref.edi
+    echo "$xpref$COUNTER.$xfext" &gt; $xpath/$xpref.edi
 fi
-</code></pre></div>
+</code></pre>
+
 </div>
 
 <div class="related">

@@ -10,7 +10,7 @@
 
   <title>
     
-      PhD studies &middot; Simon Farrell
+      SPSS to LaTeX (funk to funky) &middot; Simon Farrell
     
   </title>
 
@@ -53,7 +53,7 @@
       
         
           
-            <li class="sidebar-nav-item active">
+            <li class="sidebar-nav-item">
               <a href="/PhD/">PhD studies</a>
             </li>
           
@@ -111,12 +111,49 @@
 
 
     <div class="content container">
-      <div class="page">
-  <h1 class="page-title">PhD studies</h1>
-  <p>I am looking to take on PhD students with a common interest in memory and/or decision-making, a solid background in cognitive psychology or a related discipline, and a genuine interest in research (including learning new skills such as programming). Funding is available to domestic students via <a href="http://www.scholarships.uwa.edu.au/search?sc_view=1&amp;id=341&amp;page=1&amp;q=Australian+Postgraduate+Award&amp;s=1&amp;old_key=0">Australian Postgraduate Awards and University Postgraduate Awards funded by the Australian Government or UWA</a>, and the University makes available <a href="http://www.scholarships.uwa.edu.au/future-students/postgrad/prestigious">additional scholarships</a> bequeathed by benefactors. Excellent international students also have a number of ways of <a href="http://www.scholarships.uwa.edu.au/future-students/postgrad/international">obtaining funding</a>.</p>
+      <div class="post">
+  <h1 class="post-title">SPSS to LaTeX (funk to funky)</h1>
+  <span class="post-date">10 Dec 2011</span>
+  <p>Some bits of writing a paper can be fun—finding a good way to present an argument, or coming up with a theory that explains some weird results. Other bits are just plain dull, and some of the dullest must be method and results sections. Transcribing F values, p values and degrees of freedom from your stats package into a paper really is not something that researchers should be spending time on. Furthermore, these are the bits that we as psychologists are getting wrong. Some recent and disturbing evidence comes from Bakker &amp; Wicherts (2011), who showed that an alarming number of papers contain errors in their reporting of statistical results (and these errors are biased towards finding a significant result).</p>
 
-<p>If you are interested, <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#105;&#109;&#111;&#110;&#046;&#102;&#097;&#114;&#114;&#101;&#108;&#108;&#064;&#117;&#119;&#097;&#046;&#101;&#100;&#117;&#046;&#097;&#117;">get in touch</a>. Note that I will not reply to form letters or obvious cases of mass emailing.</p>
+<p>One solution is to automate statistical reporting as much as possible, which in turn implies automating the analysis/modelling process itself. Indeed, a recent movement (see, e.g., http://www.sciencemag.org/content/334/6060/1226.full) urges for reproducible research, whereby data are made available to other researchers along with the precise code that was used to turn those data into the results reported in a scientific paper. To link the analyses with what actually appears in a published article, programs such as R have been integrated with LaTeX via such packages as Sweave. I use MATLAB to run many of analyses, and integration with Sweave hasn’t really progressed. Furthermore, I actually call SPSS from MATLAB so I get some of the useful stuff that SPSS prints out (like effect sizes and contrasts), whilst using MATLAB to do the grunt work of scoring up performance. So instead I wrote <a href="/LatexFull.xla">this addin</a>, which takes Excel output exported from SPSS for a repeated measures ANOVA, and turns it into LaTeX-ready output. It would be straightforward to do the same for between-subjects effects, regression etc.—I just very rarely use these!</p>
 
+<p>Bakker, M. &amp; Wicherts, J. M. (2011). The (mis)reporting of statistical results in psychology journals. Behavior Research Methods, 43, 666-678.</p>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2015/12/11/PRO-initiative-for-open-science/">
+            The PRO initiative for open science
+            <small>11 Dec 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2014/04/27/changes/">
+            Changes
+            <small>27 Apr 2014</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2014/04/04/welcome/">
+            Welcome!
+            <small>04 Apr 2014</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
 </div>
 
 

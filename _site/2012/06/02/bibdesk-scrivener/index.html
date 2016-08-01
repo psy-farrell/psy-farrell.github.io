@@ -54,6 +54,14 @@
         
           
             <li class="sidebar-nav-item">
+              <a href="/PhD/">PhD studies</a>
+            </li>
+          
+        
+      
+        
+          
+            <li class="sidebar-nav-item">
               <a href="/about/">About</a>
             </li>
           
@@ -68,7 +76,7 @@
         
           
             <li class="sidebar-nav-item">
-              <a href="/PhD/">PhD studies</a>
+              <a href="/members/">Lab members and alumni</a>
             </li>
           
         
@@ -89,20 +97,14 @@
           
         
       
-        
-          
-        
-      
-        
-          
-        
-      
 
     </ul>
 
+    <p><a href="https://twitter.com/psy_farrell" class="twitter-follow-button" data-show-count="false">Follow @psy_farrell</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
+
     <p><a href="https://opennessinitiative.org"><img src="https://opennessinitiative.org/wp-content/uploads/2015/11/pro_lock.png" alt="PRO initiative" width=100></a></p>
 
-    <p>&copy; 2015. All rights reserved.</p>
+    <p>&copy; 2016. All rights reserved.</p>
     <p>This site is based on <a href="http://hyde.getpoole.com">Poole</a>.</p>
   </div>
 </div>
@@ -112,11 +114,11 @@
       <div class="post">
   <h1 class="post-title">Switching between Scrivener and Bibdesk</h1>
   <span class="post-date">02 Jun 2012</span>
-  <p>For the past 8 years or so, I&rsquo;ve used
+  <p>For the past 8 years or so, I’ve used
 <a href="http://en.wikipedia.org/wiki/LaTeX">LaTeX</a> almost exclusively to write
 my (academic) papers. Once it is up and running it takes care of the
 nitty gritty of formatting and referencing, meaning you can focus more
-on the writing. For several of those 8 years I&rsquo;ve been on a mac, and
+on the writing. For several of those 8 years I’ve been on a mac, and
 finding the combination of
 <a href="http://pages.uoregon.edu/koch/texshop/">TeXShop</a> and
 <a href="http://bibdesk.sourceforge.net/">BibDesk</a> pretty darn awesome. BibDesk
@@ -125,25 +127,25 @@ format (a standard bibliographical format used by LaTeX). TeXShop is an
 editing program built for editing LaTeX files; these are plain text and
 could be edited in any old text editor, but TeXShop provides nice LaTeX
 syntax highlighting and a fairly useful macro system (and is less busy
-than other editors I&rsquo;ve looked at).</p>
+than other editors I’ve looked at).</p>
 
 <p>\</p>
 
 <p>Having said that, TeXShop is pretty ugly to work in sometimes when there
 are lots of comments and insertions around and things start to get
-messy. So recently I&rsquo;ve been using
+messy. So recently I’ve been using
 <a href="http://www.literatureandlatte.com/scrivener.php">Scrivener</a> to write my
 papers and similar documents. Scrivener is basically a lovely looking
-writing environment that let&rsquo;s you make comments separate from the doc
+writing environment that let’s you make comments separate from the doc
 (a la Word), and has some nifty features for managing project-related
 files and snippets (great for collecting random thoughts you want to put
-in a paper <em>somewhere</em> at a later date&hellip;but not just now!). It doesn&rsquo;t
-do LaTeX natively, but I&rsquo;ve got a pretty smooth system converting to
+in a paper <em>somewhere</em> at a later date…but not just now!). It doesn’t
+do LaTeX natively, but I’ve got a pretty smooth system converting to
 LaTeX via
 <a href="http://fletcherpenney.net/multimarkdown/">multimarkdown</a> (more on that
 another time). One thing I miss about TeXShop is the ability to quickly
-search for BibDesk references inside the editor. We can&rsquo;t do this (at
-least while it isn&rsquo;t scriptable), but the next best thing is to set up
+search for BibDesk references inside the editor. We can’t do this (at
+least while it isn’t scriptable), but the next best thing is to set up
 some shortcuts to switch between the apps. My setup is as follows:</p>
 
 <p>\</p>
@@ -160,27 +162,27 @@ highlighted in BibDesk and copy them to Scrivener. The applescript is as
 follows:</p>
 
 <blockquote>
-<p><strong>tell</strong> <em>application</em> &ldquo;System Events&rdquo; <strong>to</strong> <strong>keystroke</strong> &ldquo;c&rdquo; using
+  <p><strong>tell</strong> <em>application</em> “System Events” <strong>to</strong> <strong>keystroke</strong> “c” using
 {command down}\
-<strong>tell</strong> <em>application</em> &ldquo;Scrivener&rdquo;\
-<strong>activate</strong><strong>tell</strong> <em>application</em> &ldquo;System Events&rdquo; <strong>to</strong>
-<strong>keystroke</strong> &ldquo;v&rdquo; using {command down}\
+<strong>tell</strong> <em>application</em> “Scrivener”\
+<strong>activate</strong><strong>tell</strong> <em>application</em> “System Events” <strong>to</strong>
+<strong>keystroke</strong> “v” using {command down}\
 <strong>end</strong> <strong>tell</strong></p>
 </blockquote>
 
 <p>* All this will do is copy whatever BibDesk usually copies into
-Scrivener. We want to copy the references over in multimarkdown&rsquo;s
+Scrivener. We want to copy the references over in multimarkdown’s
 referencing format, and can do this using templates in BibDesk; see
  <a href="http://groups.google.com/group/multimarkdown/browse_thread/thread/0c9937c17906a8b1/6f633137107832fa?#6f633137107832fa">here</a>
 for a discussion and examples. Mine looks like this:\</p>
 
 <blockquote>
-<p>[#&lt;\$publications.citeKey.@componentsJoinedByComma/&gt;][]</p>
+  <p>[#&lt;$publications.citeKey.@componentsJoinedByComma/&gt;][]</p>
 </blockquote>
 
 <p>So when I press command-Y in BibDesk (having selected a few references)
-I get something like [#Estes55;][] back in the Scrivener doc. It&rsquo;s a
-bit slow and clunky but does the job. Also, I&rsquo;m not really an
+I get something like [#Estes55;][] back in the Scrivener doc. It’s a
+bit slow and clunky but does the job. Also, I’m not really an
 Applescript programmer, so there may be a more sensible way to do this.\
  \</p>
 
