@@ -5,17 +5,35 @@ title: Publications
 
 See disclaimer and copyright notice at bottom!
 
-## The book!##
+See also [Google Scholar](https://scholar.google.com/citations?user=gpDeUjIAAAAJ&hl=en&oi=sra)
+
+## Books ##
+
+<p>Farrell, S., &and Lewandowsky, S. (in press). <i>Computational modeling of cognition and behaviour</i>. New book in production! </p>
 
 <p>Lewandowsky, S., & Farrell, S. (2010). <i>Computational Modeling in Cognition: Principles and Practice.</i> Thousand Oaks, CA: Sage. <a href="http://websites.psychology.uwa.edu.au/labs/cogscience/ModelingBook.html">Corrections, addenda, code and supplementary materials are available </a>. </p>
 
 ## Recent publications ##
 
-Spurgeon, J., Ward, G., Matthews, W. J., & Farrell, S.  (in press).  Can the effects of temporal grouping explain the similarities and differences between free recall and serial recall?. Memory \& Cognition. 
+Mason, A., Farrell, S., Howard-Jones, P. A., & Ludwig, C.  (in press).  The role of reward and reward uncertainty in episodic memory. *Journal of Memory and Language.*
 
-## Pre 2015 ##
+Mason, A., Ludwig, C., & Farrell, S.  (2017).  Adaptive scaling of reward in episodic memory: a replication study. *The Quarterly Journal of Experimental Psychology, 70*, 2306–2318. 
 
-Farrell, S. (in press). [Correcting the correction of conditional recency slopes](/moranReplyPBR.pdf). *Psychonomic Bulletin & Review, 21*, 1--6. 
+## Pre 2017 ##
+
+Ballard, T., Yeo, G., Neal, A., & Farrell, S.  (2016).  Departures from optimality when pursuing multiple approach or avoidance goals. *Journal of Applied Psychology, 101(7)*, 1056–1066. 
+
+Farrell, S., Oberauer, K., Greaves, M., Pasiecznik, K., Lewandowsky, S., & Jarrold, C.  (2016).  A test of interference versus decay in working memory: Varying distraction within lists in a complex span task. *Journal of Memory and Language, 90*, 66–87.
+
+Ez-zizi A, Farrell S, Leslie D  (2015)  Bayesian reinforcement learning in Markovian and non-Markovian tasks. In: *2015 IEEE Symposium Series on Computational Intelligence*. 579-–586. 
+
+Oberauer, K., Farrell, S., Jarrold, C., & Lewandowsky, S.  (2016).  What limits working memory capacity?. *Psychological Bulletin, 142*, 758--799. 
+
+Farrell S, Lewandowsky S. (2015). An introduction to cognitive modelling. In: Forstmann BU, Wagenmakers E, ed.,*An Introduction to Model-Based Cognitive Neuroscience.* New York, NY: Springer. 3--24.
+
+Spurgeon, J., Ward, G., Matthews, W. J., & Farrell, S.  (2014).  Can the effects of temporal grouping explain the similarities and differences between free recall and serial recall?. *Memory & Cognition, 43*, 469--488. 
+
+Farrell, S. (2014). [Correcting the correction of conditional recency slopes](/moranReplyPBR.pdf). *Psychonomic Bulletin & Review, 21*, 1--6. 
 
 Farrell, S. and Oberauer, K. (2014). Working memory for cross-domain sequences. <i>Quarterly Journal of Experimental Psychology </i>, 67, 33-44. [<a href="/totallyDsimE1.pdf">Unpublished manuscript</a> reporting an additional experiment using words rather than nonwords as stimuli].</p>
 
