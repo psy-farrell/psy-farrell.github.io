@@ -15,6 +15,8 @@ See also [Google Scholar](https://scholar.google.com/citations?user=gpDeUjIAAAAJ
 
 ## Recent publications ##
 
+Ballard, T., Farrell, S., & Neal, A.  (in press).  Quantifying the Psychological Value of Goal Achievement. *Psychonomic Bulletin & Review.*
+
 Mason, A., Farrell, S., Howard-Jones, P. A., & Ludwig, C.  (in press).  The role of reward and reward uncertainty in episodic memory. *Journal of Memory and Language.*
 
 Mason, A., Ludwig, C., & Farrell, S.  (2017).  Adaptive scaling of reward in episodic memory: a replication study. *The Quarterly Journal of Experimental Psychology, 70*, 2306–2318. 
