@@ -1,6 +1,5 @@
 # Dependencies
 markdown:         kramdown
-pygments:         true
 redcarpet:
   extensions: [smart]
 
