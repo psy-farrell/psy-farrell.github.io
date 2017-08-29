@@ -17,6 +17,8 @@ See also [Google Scholar](https://scholar.google.com/citations?user=gpDeUjIAAAAJ
 
 Udale, R., Farrell, S., & Kent, C.  (in press).  No evidence for binding of items to task-irrelevant backgrounds in visual working memory. *Memory & Cognition.*
 
+Udale, R., Farrell, S., & Kent, C.  (in press).  Task demands determine comparison strategy in whole probe change detection. *Journal of Experimental Psychology: Human Perception and Performance*. 
+
 Ballard, T., Farrell, S., & Neal, A.  (in press).  Quantifying the Psychological Value of Goal Achievement. *Psychonomic Bulletin & Review.*
 
 Mason, A., Farrell, S., Howard-Jones, P. A., & Ludwig, C.  (in press).  The role of reward and reward uncertainty in episodic memory. *Journal of Memory and Language.*
