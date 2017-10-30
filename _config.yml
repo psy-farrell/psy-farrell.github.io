@@ -5,11 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "mint" #default" , "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "simon_metal" #default" , "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
-title                    : "Farrell on Memory and Decision-Making"
+title                    : "Prof Simon Farrell"
 title_separator          : "-"
 name                     : "Simon Farrell"
 description              : "Academic website of Simon Farrell."
