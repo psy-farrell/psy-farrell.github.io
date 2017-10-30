@@ -1,0 +1,17 @@
+# main links
+main:
+  - title: "My Research"
+    url: /_pages/research/
+  - title: "Publications"
+    url: /_pages/publications/
+  - title: "Lab members"
+    url: /_pages/members/
+  - title: "Supervision"
+    url: /_pages/PhD
+  - title: "About"
+    url: /_pages/about/
+  
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

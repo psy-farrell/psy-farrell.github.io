@@ -1,6 +1,6 @@
 ---
-layout: post
 title: SPSS to LaTeX (funk to funky)
+date: 2011-12-10
 ---
 
 Some bits of writing a paper can be fun---finding a good way to present an argument, or coming up with a theory that explains some weird results. Other bits are just plain dull, and some of the dullest must be method and results sections. Transcribing F values, p values and degrees of freedom from your stats package into a paper really is not something that researchers should be spending time on. Furthermore, these are the bits that we as psychologists are getting wrong. Some recent and disturbing evidence comes from Bakker & Wicherts (2011), who showed that an alarming number of papers contain errors in their reporting of statistical results (and these errors are biased towards finding a significant result).

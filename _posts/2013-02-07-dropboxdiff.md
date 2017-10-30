@@ -1,6 +1,6 @@
 ---
-layout: post
 title: dropboxdiff
+date: 2013-02-07
 ---
 
 This is awesome:\

@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Major minor annoyances
+date: 2012-05-18
 ---
 
 Some people have issues with the fancy new appearance of the Google

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Switching between Scrivener and Bibdesk
 ---
 

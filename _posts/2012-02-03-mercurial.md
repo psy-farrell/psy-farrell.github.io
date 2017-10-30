@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Mercurial, Dropbox for geeks
+date: 2012-02-03
 ---
 
 I'll admit it, [Dropbox](http://www.dropbox.com/) is pretty cool. It's

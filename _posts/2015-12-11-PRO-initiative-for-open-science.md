@@ -1,6 +1,6 @@
 ---
-layout: post
 title: The PRO initiative for open science
+date: 2015-12-11
 ---
 
 <img src="https://opennessinitiative.org/wp-content/uploads/2015/11/pro_lock_wide.png" style="width:50%">

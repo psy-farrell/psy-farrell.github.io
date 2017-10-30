@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Getting stuff into Editorial
+date: 2013-10-09
 ---
 
 [Editorial](http://omz-software.com/editorial/) is the new text editor on the block that has all the kids talking. Its two main features that set it apart from the other N markdown editors available on the iPad are a) Inline preview of markdown, in a very pretty format, and b) the thing is fully Python scriptable. A [compendium of workflows](http://editorial-app.appspot.com/) shows all the cool stuff you can do with built in workflow components and Python scripting.
