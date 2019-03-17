@@ -27,7 +27,9 @@ Jane Allitt (attention to food stimuli)
 
 ## Honours students
 
-Erin Roznoczny
+Clare Boon
+Vanika Lall
+Georgia White
 
 ## Research assistance ##
 
@@ -48,8 +50,9 @@ Sho Ishiguro (2018)
 Greta Fastrich (2013)  
 Artemis Maipa (2013)
 
-## Past Honours/3rd year project students (not listed above) ##
+## Past Honours/3rd year project students (not otherwise listed above) ##
 
+Erin Roznoczny
 Luke Le Breton  
 Amy Lorimer  
 Savannah Moscarda  
