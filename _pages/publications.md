@@ -15,6 +15,10 @@ Lewandowsky, S., & Farrell, S. (2010). <i>Computational Modeling in Cognition: P
 
 ## Recent publications ##
 
+Wilson, M. D., Farrell, Visser, T. & Loft, S. (2018). Remembering to execute deferred tasks in simulated air traffic control: The impact of interruptions. *Journal of Experimental Psychology: Applied, 24,* 360--379. [[git repo](https://github.com/humanfactors/atc-interruptions-impact)]
+
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., Hurlstone, M. J., Ma, W. J., Morey, C. C., Nee, D. E., Schweppe, J., Vergauwe, E., & Ward, G.  (2018).  Benchmarks for models of short-term and working memory. *Psychological Bulletin, 144*, 885--958.
+
 Udale, R., Farrell, S., & Kent, C.  (in press).  No evidence for binding of items to task-irrelevant backgrounds in visual working memory. *Memory & Cognition.*
 
 Udale, R., Farrell, S., & Kent, C.  (in press).  Task demands determine comparison strategy in whole probe change detection. *Journal of Experimental Psychology: Human Perception and Performance*. 
