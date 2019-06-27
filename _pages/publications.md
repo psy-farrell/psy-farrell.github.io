@@ -9,27 +9,37 @@ See also [Google Scholar](https://scholar.google.com/citations?user=gpDeUjIAAAAJ
 
 ## Books ##
 
-Farrell, S., & Lewandowsky, S. (in press). <i>Computational modeling of cognition and behaviour</i>. New book in production: <a href="https://psy-farrell.github.io/computational-modelling/">Website</a>
+Farrell, S., & Lewandowsky, S. (2018). <i>Computational modeling of cognition and behaviour</i>. Cambridge, UK: Cambridge University Press. <a href="https://psy-farrell.github.io/computational-modelling/">Website</a>
 
 Lewandowsky, S., & Farrell, S. (2010). <i>Computational Modeling in Cognition: Principles and Practice.</i> Thousand Oaks, CA: Sage. <a href="http://websites.psychology.uwa.edu.au/labs/cogscience/ModelingBook.html">Corrections, addenda, code and supplementary materials are available </a>.
 
 ## Recent publications ##
 
+Andreotta, M., Nugroho, R., Hurlstone, M., Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2019). Performing qualitative analyses on social media data sets: An application to climate change commentary on Twitter. *Behavior Research Methods, in press.*
+
+Osth, A. F., & Farrell, S. (2019). Using response time distributions and race models to characterize primacy and recency effects in free recall initiation. *Psychological Review, in press.*
+
 Wilson, M. D., Farrell, Visser, T. & Loft, S. (2018). Remembering to execute deferred tasks in simulated air traffic control: The impact of interruptions. *Journal of Experimental Psychology: Applied, 24,* 360--379. [[git repo](https://github.com/humanfactors/atc-interruptions-impact)]
+
+Farrell, S. (2018). Anticipatory access to group-level information in working memory. *Quarterly Journal of Experimental Psychology, 71,* 2450–2463.
+
+Jones, T., & Farrell, S. (2018). Does syntax bias serial order reconstruction of verbal short-term memory? *Journal of Memory and Language, 100*, 98–122. doi:https://doi.org/10.1016/j.jml. 2018.02.001
 
 Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., Hurlstone, M. J., Ma, W. J., Morey, C. C., Nee, D. E., Schweppe, J., Vergauwe, E., & Ward, G.  (2018).  Benchmarks for models of short-term and working memory. *Psychological Bulletin, 144*, 885--958.
 
-Udale, R., Farrell, S., & Kent, C.  (in press).  No evidence for binding of items to task-irrelevant backgrounds in visual working memory. *Memory & Cognition.*
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., ... Ward, G. (2018b). Benchmarks provide common ground for model development: Reply to Logie (2018) and Vandierendonck (2018). *Psychological Bulletin, 144(9)*, 972–977. doi:10.1037/bul0000165
 
-Udale, R., Farrell, S., & Kent, C.  (in press).  Task demands determine comparison strategy in whole probe change detection. *Journal of Experimental Psychology: Human Perception and Performance*. 
+Udale, R., Farrell, S., & Kent, C. (2018a). Task demands determine comparison strategy in whole probe change detection. J*ournal of Experimental Psychology: Human Perception and Performance, 44*, 778–796.
 
-Ballard, T., Farrell, S., & Neal, A.  (in press).  Quantifying the Psychological Value of Goal Achievement. *Psychonomic Bulletin & Review.*
+Udale, R., Farrell, S., & Kent, C. (2018b). No evidence of binding items to spatial configuration representations in visual working memory. *Memory & Cognition,* 46(6), 955–968. doi:10 . 3758/s13421-018-0814-8
 
-Mason, A., Farrell, S., Howard-Jones, P. A., & Ludwig, C.  (in press).  The role of reward and reward uncertainty in episodic memory. *Journal of Memory and Language.*
+Ballard, T., Farrell, S., & Neal, A. (2018). Quantifying the psychological value of goal achievement. *Psychonomic Bulletin & Review, 25*, 1184–1192.
+
+Mason, A., Farrell, S., Howard-Jones, P. A., & Ludwig, C. (2017). The role of reward and reward uncertainty in episodic memory. *Journal of Memory and Language, 96,* 62–77.
+
+Udale, R., Farrell, S., & Kent, C. (2017). No evidence for binding of items to task-irrelevant backgrounds in visual working memory. *Memory & Cognition, 45*, 1144–1159.
 
 Mason, A., Ludwig, C., & Farrell, S.  (2017).  Adaptive scaling of reward in episodic memory: a replication study. *The Quarterly Journal of Experimental Psychology, 70*, 2306–2318. 
-
-## Pre 2017 ##
 
 Ballard, T., Yeo, G., Neal, A., & Farrell, S.  (2016).  Departures from optimality when pursuing multiple approach or avoidance goals. *Journal of Applied Psychology, 101(7)*, 1056–1066. 
 
