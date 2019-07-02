@@ -3,10 +3,6 @@ layout: single
 title: Lab members and alumni
 ---
 
-## Postdoc(s) ##
-
-Alice Mason
-
 ## PhD students ##
 
 Savannah Moscarda (multiple goal pursuit)  
@@ -20,10 +16,10 @@ Marton Kocsis (working memory and decision-making)
 
 Michael Wilson (task interruptions; co-supervisor)  
 Matthew Andreotta (mental models; co-supervisor)  
-Jack Hutchinson (task automation)  
+Jack Hutchinson (judgement of automation reliability)  
 Jasmyne Sanderson (misinformation effects)   
 Robbie Knox (language ability and communication)  
-Jane Allitt (attention to food stimuli)  
+Georgia Turnbull (perception of body size)
 
 ## Honours students
 
@@ -38,8 +34,8 @@ Charles Hanich
 ## Past PhD students ##
 
 Robert Udale (Postdoc, Oxford)  
-Alice Mason (Postdoc, Bristol, UWA)  
-Adnane Ez-Zizzi  (Postdoc, Sheffield)  
+Alice Mason (also did a postdoc with me, now a Leverhulme Fellow, Warwick, UK)  
+Adnane Ez-Zizzi  (Postdoc, Sheffield, now Birmingham)  
 Beki Floyd  
 Tim Jones (The National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care West, UK)  
 Vicky Edkins
@@ -50,7 +46,7 @@ Sho Ishiguro (2018)
 Greta Fastrich (2013)  
 Artemis Maipa (2013)
 
-## Past Honours/3rd year project students (not otherwise listed above) ##
+## Past Honours students (not otherwise listed above) ##
 
 Erin Roznoczny
 Luke Le Breton  
@@ -58,4 +54,5 @@ Amy Lorimer
 Savannah Moscarda  
 Anindita Karajagi  
 Hannah Jennings  
-Jianing Li
+Jianing Li  
+and 30+ students at University of Bristol
