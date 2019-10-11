@@ -13,8 +13,7 @@ Georgiana Cheuk (serial recall; with Mark Hurlstone)
 Marton Kocsis (working memory and decision-making)  
 
 ### Second supervisor to: ###
-
-Michael Wilson (task interruptions; co-supervisor)  
+ 
 Matthew Andreotta (mental models; co-supervisor)  
 Jack Hutchinson (judgement of automation reliability)  
 Jasmyne Sanderson (misinformation effects)   
@@ -23,9 +22,9 @@ Georgia Turnbull (perception of body size)
 
 ## Honours students
 
-Clare Boon
-Vanika Lall
-Georgia White
+Clare Boon  
+Vanika Lall  
+Georgia White  
 
 ## Research assistance ##
 
@@ -33,6 +32,7 @@ Charles Hanich
 
 ## Past PhD students ##
 
+Michael Wilson (postdoc, Curtin) 
 Robert Udale (Postdoc, Oxford)  
 Alice Mason (also did a postdoc with me, now a Leverhulme Fellow, Warwick, UK)  
 Adnane Ez-Zizzi  (Postdoc, Sheffield, now Birmingham)  
