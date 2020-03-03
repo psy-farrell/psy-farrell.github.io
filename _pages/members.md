@@ -3,18 +3,22 @@ layout: single
 title: Lab members and alumni
 ---
 
+## Postdoc ##
+
+Greta Fastrich (PhD reading), working on multiple goal pursuit
+
 ## PhD students ##
 
 Savannah Moscarda (multiple goal pursuit)  
 Olga Clarke (grouping in episodic memory)  
 Anthony Di Pietro (economic judgement and decision-making)  
 Blake Cavve (decision-making in a social context)  
-Georgiana Cheuk (serial recall; with Mark Hurlstone)  
+Georgiana Cheuk (serial recall)  
 Marton Kocsis (working memory and decision-making)  
+Matthew Andreotta (mental models; co-supervisor)  
 
 ### Second supervisor to: ###
  
-Matthew Andreotta (mental models; co-supervisor)  
 Jack Hutchinson (judgement of automation reliability)  
 Jasmyne Sanderson (misinformation effects)   
 Robbie Knox (language ability and communication)  
@@ -22,9 +26,8 @@ Georgia Turnbull (perception of body size)
 
 ## Honours students
 
-Clare Boon  
-Vanika Lall  
-Georgia White  
+Claire Cox  
+Catherine Davis
 
 ## Research assistance ##
 
@@ -48,7 +51,10 @@ Artemis Maipa (2013)
 
 ## Past Honours students (not otherwise listed above) ##
 
-Erin Roznoczny
+Clare Boon  
+Vanika Lall  
+Georgia White  
+Erin Roznoczny  
 Luke Le Breton  
 Amy Lorimer  
 Savannah Moscarda  
