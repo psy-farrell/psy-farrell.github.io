@@ -9,7 +9,6 @@ Greta Fastrich (PhD reading), working on multiple goal pursuit
 
 ## PhD students ##
 
-Savannah Moscarda (multiple goal pursuit)  
 Olga Clarke (grouping in episodic memory)  
 Anthony Di Pietro (economic judgement and decision-making)  
 Blake Cavve (decision-making in a social context)  
@@ -26,12 +25,8 @@ Georgia Turnbull (perception of body size)
 
 ## Honours students
 
-Claire Cox  
-Catherine Davis
-
-## Research assistance ##
-
-Charles Hanich
+Ruby Van Kins (goal pursuit)
+Avia Peh (with Greta Fastrich, curiosity)
 
 ## Past PhD students ##
 
@@ -51,6 +46,8 @@ Artemis Maipa (2013)
 
 ## Past Honours students (not otherwise listed above) ##
 
+Claire Cox  
+Catherine Davis
 Clare Boon  
 Vanika Lall  
 Georgia White  
@@ -61,4 +58,4 @@ Savannah Moscarda
 Anindita Karajagi  
 Hannah Jennings  
 Jianing Li  
-and 30+ students at University of Bristol
+and 30+ project students at University of Bristol
