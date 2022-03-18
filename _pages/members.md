@@ -5,16 +5,12 @@ title: Lab members and alumni
 
 ## Postdoc ##
 
-Greta Fastrich (PhD reading), working on multiple goal pursuit
-
 ## PhD students ##
 
 Olga Clarke (grouping in episodic memory)  
 Anthony Di Pietro (economic judgement and decision-making)  
 Blake Cavve (decision-making in a social context)  
-Georgiana Cheuk (serial recall)  
 Marton Kocsis (working memory and decision-making)  
-Matthew Andreotta (mental models; co-supervisor)  
 
 ### Second supervisor to: ###
  
@@ -23,17 +19,20 @@ Jasmyne Sanderson (misinformation effects)
 Robbie Knox (language ability and communication)  
 Georgia Turnbull (perception of body size)
 
-## Honours students
+## Honours students ##
 
 Ruby Van Kins (goal pursuit)
 Avia Peh (with Greta Fastrich, curiosity)
 
-## Past PhD students ##
+## Past PhD students and postdocs ##
 
+Greta Fastrich (postdoc Southampton)
+Matthew Andreotta (postdoc, CSIRO)  
+Georgiana Cheuk
 Michael Wilson (postdoc, Curtin) 
 Robert Udale (Postdoc, Oxford)  
 Alice Mason (also did a postdoc with me, now a Leverhulme Fellow, Warwick, UK)  
-Adnane Ez-Zizzi  (Postdoc, Sheffield, now Birmingham)  
+Adnane Ez-Zizzi  (Lecturer, Suffolk)  
 Beki Floyd  
 Tim Jones (The National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care West, UK)  
 Vicky Edkins
@@ -46,6 +45,8 @@ Artemis Maipa (2013)
 
 ## Past Honours students (not otherwise listed above) ##
 
+Avia Peh
+Ruby Van Kins
 Claire Cox  
 Catherine Davis
 Clare Boon  
