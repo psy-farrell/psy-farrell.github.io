@@ -3,8 +3,6 @@ layout: single
 title: Lab members and alumni
 ---
 
-## Postdoc ##
-
 ## PhD students ##
 
 Olga Clarke (grouping in episodic memory)  
@@ -17,12 +15,11 @@ Marton Kocsis (working memory and decision-making)
 Jack Hutchinson (judgement of automation reliability)  
 Jasmyne Sanderson (misinformation effects)   
 Robbie Knox (language ability and communication)  
-Georgia Turnbull (perception of body size)
+Georgia Turnbull (perception of body size) 
 
 ## Honours students ##
 
-Ruby Van Kins (goal pursuit)
-Avia Peh (with Greta Fastrich, curiosity)
+(None this year)
 
 ## Past PhD students and postdocs ##
 
@@ -41,14 +38,14 @@ Vicky Edkins
 
 Sho Ishiguro (2018)  
 Greta Fastrich (2013)  
-Artemis Maipa (2013)
+Artemis Maipa (2013)  
 
 ## Past Honours students (not otherwise listed above) ##
 
-Avia Peh
-Ruby Van Kins
+Avia Peh  
+Ruby Van Kins  
 Claire Cox  
-Catherine Davis
+Catherine Davis  
 Clare Boon  
 Vanika Lall  
 Georgia White  
