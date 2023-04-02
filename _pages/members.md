@@ -5,30 +5,32 @@ title: Lab members and alumni
 
 ## PhD students ##
 
+Jake Goldsworthy (prioritisation of memory and ageing)
 Olga Clarke (grouping in episodic memory)  
-Anthony Di Pietro (economic judgement and decision-making)  
-Blake Cavve (decision-making in a social context)  
-Marton Kocsis (working memory and decision-making)  
 
 ### Second supervisor to: ###
- 
-Jack Hutchinson (judgement of automation reliability)  
-Jasmyne Sanderson (misinformation effects)   
+   
 Robbie Knox (language ability and communication)  
 Georgia Turnbull (perception of body size) 
 
 ## Honours students ##
 
-(None this year)
+Kashvi Vaghjiani (prioritisation of memory)
+Cameron Braysher (goal pursuit)
+Isabella Bacigalupo-Rose (goal pursuit)
 
-## Past PhD students and postdocs ##
+## Graduated PhD students and postdocs ##
 
+Blake Cavve (Telethon Kids Institute)  
+Marton Kocsis (WA Centre for Road Safety Research)  
+Jack Hutchinson (judgement of automation reliability)  
+Jasmyne Sanderson (misinformation effects) 
 Greta Fastrich (postdoc Southampton)
 Matthew Andreotta (postdoc, CSIRO)  
 Georgiana Cheuk
 Michael Wilson (postdoc, Curtin) 
 Robert Udale (Postdoc, Oxford)  
-Alice Mason (also did a postdoc with me, now a Leverhulme Fellow, Warwick, UK)  
+Alice Mason (Lecturer, Bath from midyear)  
 Adnane Ez-Zizzi  (Lecturer, Suffolk)  
 Beki Floyd  
 Tim Jones (The National Institute for Health Research Collaboration for Leadership in Applied Health Research and Care West, UK)  
