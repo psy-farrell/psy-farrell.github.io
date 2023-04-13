@@ -5,7 +5,7 @@ title: Lab members and alumni
 
 ## PhD students ##
 
-Jake Goldsworthy (prioritisation of memory and ageing)
+Jake Goldsworthy (prioritisation of memory and ageing)  
 Olga Clarke (grouping in episodic memory)  
 
 ### Second supervisor to: ###
@@ -15,8 +15,8 @@ Georgia Turnbull (perception of body size)
 
 ## Honours students ##
 
-Kashvi Vaghjiani (prioritisation of memory)
-Cameron Braysher (goal pursuit)
+Kashvi Vaghjiani (prioritisation of memory)  
+Cameron Braysher (goal pursuit)  
 Isabella Bacigalupo-Rose (goal pursuit)
 
 ## Graduated PhD students and postdocs ##
@@ -24,12 +24,12 @@ Isabella Bacigalupo-Rose (goal pursuit)
 Blake Cavve (Telethon Kids Institute)  
 Marton Kocsis (WA Centre for Road Safety Research)  
 Jack Hutchinson (judgement of automation reliability)  
-Jasmyne Sanderson (misinformation effects) 
-Greta Fastrich (postdoc Southampton)
+Jasmyne Sanderson (misinformation effects)  
+Greta Fastrich (postdoc Southampton)  
 Matthew Andreotta (postdoc, CSIRO)  
-Georgiana Cheuk
-Michael Wilson (postdoc, Curtin) 
-Robert Udale (Postdoc, Oxford)  
+Georgiana Cheuk  
+Michael Wilson (postdoc, Curtin)  
+Robert Udale (Postdoc, Oxford)   
 Alice Mason (Lecturer, Bath from midyear)  
 Adnane Ez-Zizzi  (Lecturer, Suffolk)  
 Beki Floyd  
