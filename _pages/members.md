@@ -28,7 +28,7 @@ Jasmyne Sanderson (misinformation effects)
 Greta Fastrich (postdoc Southampton)  
 Matthew Andreotta (postdoc, CSIRO)  
 Georgiana Cheuk  
-Michael Wilson (postdoc, Curtin)  
+Micah Wilson (postdoc, Curtin)  
 Robert Udale (Postdoc, Oxford)   
 Alice Mason (Lecturer, Bath from midyear)  
 Adnane Ez-Zizzi  (Lecturer, Suffolk)  
