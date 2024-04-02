@@ -15,7 +15,7 @@ Robbie Knox (language ability and communication)
 
 ## Honours students ##
 
-Parami De Silva 
+Parami De Silva  
 Frank Lei  
 Hemant SO M G R Maran  
 Sean Orpwood  
