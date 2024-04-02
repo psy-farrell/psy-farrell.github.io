@@ -25,12 +25,12 @@ Luke Ricciardo
 
 Georgia Turnbull (perception of body size) 
 Blake Cavve (Telethon Kids Institute)  
-Marton Kocsis (WA Centre for Road Safety Research)  
+Marton Kocsis (postdoc, UWA)  
 Jack Hutchinson (judgement of automation reliability)  
 Jasmyne Sanderson (misinformation effects)  
 Greta Fastrich (postdoc Southampton)  
 Matthew Andreotta (postdoc, CSIRO)  
-Georgiana Cheuk  
+Georgiana Cheuk  (School of Indigenous Studies, UWA)  
 Micah Wilson (postdoc, Curtin)  
 Robert Udale (Postdoc, Oxford)   
 Alice Mason (Lecturer, Bath from midyear)  
