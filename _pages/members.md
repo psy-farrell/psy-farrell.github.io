@@ -27,12 +27,12 @@ Georgia Turnbull (perception of body size)
 Blake Cavve (Telethon Kids Institute)  
 Marton Kocsis (WA Centre for Road Safety Research)  
 Jack Hutchinson (judgement of automation reliability)  
-Jasmyne Sanderson (misinformation effects) 
-Greta Fastrich (postdoc Southampton)
+Jasmyne Sanderson (misinformation effects)  
+Greta Fastrich (postdoc Southampton)  
 Matthew Andreotta (postdoc, CSIRO)  
-Georgiana Cheuk
-Michael Wilson (postdoc, Curtin) 
-Robert Udale (Postdoc, Oxford)  
+Georgiana Cheuk  
+Micah Wilson (postdoc, Curtin)  
+Robert Udale (Postdoc, Oxford)   
 Alice Mason (Lecturer, Bath from midyear)  
 Adnane Ez-Zizzi  (Lecturer, Suffolk)  
 Beki Floyd  
