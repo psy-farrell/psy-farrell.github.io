@@ -5,22 +5,25 @@ title: Lab members and alumni
 
 ## PhD students ##
 
-Jake Goldsworthy (prioritisation of memory and ageing)
+Chin-Yen Chiang (optimal stopping in sequential choice)  
+Jake Goldsworthy (prioritisation of memory and ageing)  
 Olga Clarke (grouping in episodic memory)  
 
 ### Second supervisor to: ###
    
 Robbie Knox (language ability and communication)  
-Georgia Turnbull (perception of body size) 
 
 ## Honours students ##
 
-Kashvi Vaghjiani (prioritisation of memory)
-Cameron Braysher (goal pursuit)
-Isabella Bacigalupo-Rose (goal pursuit)
+Parami De Silva 
+Frank Lei  
+Hemant SO M G R Maran  
+Sean Orpwood  
+Luke Ricciardo  
 
 ## Graduated PhD students and postdocs ##
 
+Georgia Turnbull (perception of body size) 
 Blake Cavve (Telethon Kids Institute)  
 Marton Kocsis (WA Centre for Road Safety Research)  
 Jack Hutchinson (judgement of automation reliability)  
@@ -44,6 +47,9 @@ Artemis Maipa (2013)
 
 ## Past Honours students (not otherwise listed above) ##
 
+Kashvi Vaghjiani (prioritisation of memory)  
+Cameron Braysher (goal pursuit)   
+Isabella Bacigalupo-Rose (goal pursuit)  
 Avia Peh  
 Ruby Van Kins  
 Claire Cox  
